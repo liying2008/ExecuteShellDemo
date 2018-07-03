@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="commands">
+        <item>ls</item>
+        <item>ps</item>
+        <item>cat /system/build.prop</item>
+        <item>rm /sdcard/index.html</item>
+        <item>curl http://www.baidu.com</item>
+        <item>wget http://www.baidu.com -P /sdcard/</item>
+    </string-array>
+</resources>
